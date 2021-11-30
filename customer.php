@@ -5,6 +5,9 @@ require_once "./db/db.php";
 
 //getcustomers
 
+//testing on how to create classes for customers with a get and a set
+//non of this was used in this project, but this is complete way of creating a class in php without using orm
+
 function getCustomers(){
 
     $conn = createConnection();
