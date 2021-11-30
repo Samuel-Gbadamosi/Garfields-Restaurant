@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+html {
+    height: 100%;
+}
+
+body{
+  width: 100vw;
+  height: 100px;
+  margin-bottom: 40px;
+  background-color: beige;
+}
+
+.boxone{
+    background-color: #FFF4F1;
+    /* height: 500px; */
+    width: 40vw;
+}
+
+.boxtwo{
+    background-color: purple;
+    /* height: 500px; */
+    width: 40vw;
+}
+
+/* dont touch  */
+.left-menu{
+    /* height: 224px; */
+     width: 453px;
+    position: relative;
+    left: 176px;
+    top: 132px ;
+}
+
+.h2b{
+    font-family: 'Lobster', cursive;
+    font-family: 'Pacifico', cursive;
+    color: #442825;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.p2p{
+    font-size: 19px;
+}
+
+.img{
+    height: 500px;
+}
+
+.secondsect{
+    /* height: 400px; */
+    background-color: lightpink;
+}
+
+.h3h{
+    text-align: center; 
+    color:#FF7F50;
+    font-family: 'Pacifico', cursive;
+    padding-top: 20px;
+}
+.sect-menu{
+    height: 380px;
+    width: 1296px;
+    background-color: lightpink;
+}
+
+.box-menu{
+    background-color: white;
+    border: 2px solid rgb(171 , 289 , 147);
+    border-radius: 10px;
+    height: 349px;
+    width: 350px;
+    font-size: 19px;
+    
+}
+
+.rt{
+    height: 50px;
+    padding-left: 31px;
+    padding-top: 44px;
+}
+
+ .imagemeal{
+    padding-left: 83px;
+} 
+.h44{
+    padding-left: 56px;
+    padding-top: 28px;
+}
+
+.res{
+    background-color: #FFF4F1;
+    height: 380px;
+    display: flex;
+}
+
+.picbelow{
+height: 300px;
+padding-top: 15px;
+padding-right: 4px;
+padding-left: 39px;
+border-radius: 82px;
+}
+
+.ulu  {
+    display: flex; 
+}
+
+.ulu , li {
+    justify-content: space-around;
+    list-style: none;
+    padding-top: 5px;
+    padding-right: 20px;
+}
+
+.h3hg{
+    text-align: left; 
+    color:#442825;
+    font-family: 'Pacifico', cursive;
+}
+
+.bgb{
+    background-color: #FFF7F3;
+}
+
+.menuimage{
+    width: 86%;
+    height: 91vmin;
+    margin-left: 108px;
+    padding:37px;
+    border-radius: 80px;
+}
+
+.chef{
+    margin-left: 11px;
+    position: relative;
+    left: 55px;
+}
