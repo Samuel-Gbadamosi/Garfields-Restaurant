@@ -2,27 +2,14 @@
 
 require_once "./db/db.php";
 
-require_once "./customer.php";
+//this is what we the class we created in customer
+// require_once "./customer.php";
 
 
 $restaurant = getRestaurant();
 
 
- $fooditems = getfoodItem();
-
-var_dump($fooditems);
-
- 
-
-
-
-
-// foreach($restaurant as $res){
-//     var_dump($res);
-// }
-
-
-
+//  $fooditems = getfoodItem();
 
 
 
